@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092217775305",
+    "project_id": "tlatoani-6f431",
+    "storage_bucket": "tlatoani-6f431.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092217775305:android:011a221f48d38daa2fd918",
+        "android_client_info": {
+          "package_name": "com.example.molino_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDME6vR1uv_BUQ-1WufZronDEaPDSb3A8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092217775305:android:0652eb234eff647e2fd918",
+        "android_client_info": {
+          "package_name": "com.ledoat.tlatoaniapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDME6vR1uv_BUQ-1WufZronDEaPDSb3A8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
