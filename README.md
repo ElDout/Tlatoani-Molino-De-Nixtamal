@@ -1,17 +1,22 @@
-# molino_app
+#  Tlatoani Delivery Management
 
-A new Flutter project.
+A custom, full-stack delivery management application developed for Tlatoani Molino de Nixtamal to optimize their commercial logistics and order tracking.
 
-## Getting Started
+##  Tech Stack
 
-This project is a starting point for a Flutter application.
+* **Frontend:** Flutter (iOS & Android)
+* **Backend:** Node.js
+* **Database:** PostgreSQL
+* **Infrastructure & Security:** Custom Domain routed through Cloudflare (DNS/CDN)
 
-A few resources to get you started if this is your first Flutter project:
+##  Key Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* **Cross-Platform Compatibility:** Native-like experience deployed for both iOS and Android using a single Flutter codebase.
+* **Delivery Tracking:** Comprehensive management of the delivery lifecycle for commercial operations.
+* **Robust Backend Architecture:** Engineered with a Node.js backend and a scalable PostgreSQL database for secure data handling.
+* **Production-Ready Deployment:** Secured and optimized utilizing Cloudflare for advanced DNS management, security, and performance routing on a custom domain.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Developer
+
+**Mateo Moctezuma**
+*Full-Stack Developer*
